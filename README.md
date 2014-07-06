@@ -79,6 +79,7 @@ head-tail.jp
 - ASP.NET
 - ASP.NET MVC
 - Subversion
+- heroku
 
 ## Blog Theme - blog.headtail.jp
 - Spanking API
