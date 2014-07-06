@@ -1,2 +1,98 @@
 head-tail.jp
 ============
+- Vagrant 
+- AWS
+- TypeScript
+- CoffeeScript
+- WebRTC
+- Node.js
+- Angular.js
+- Backbone.js
+- Knockout.js
+- Vue.js
+- BootStrap
+- Google App Engine
+- jQuery
+- JavaScript
+- Dart
+- three.js
+- WebGL
+- Ruby
+- Ruby on Rails
+- PHP
+- CakePHP
+- Python
+- Go
+- D
+- C#
+- C++
+- C
+- Microsoft Azure
+- Unixコマンド
+- Vim
+- Emacs(Lisp)
+- D3.js
+- JAVA
+- Sublimetext
+- Emmet
+- MySQL
+- MongoDB
+- Swift
+- objective-c
+- X-code
+- Sencha Architect
+- eclipse
+- WebStrom
+- PHPstorm
+- Unity
+- nginx
+- Appache
+- Cordova
+- WordPress
+- MovableType
+- Concrete5
+- Xoops
+- LocomotiveCMS
+- Sharepoint
+- Sass
+- Less
+- Stylus
+- glup
+- grant
+- yoman
+- Zabbix
+- negios
+- chef
+- pappet
+- ANSIBLE
+- Docker
+- シェルスクリプト
+- CSS3
+- HTML5
+- Git
+- GitHub
+- Redmine
+- Jenkins
+- Selenium
+- Jasmine
+- Jnit
+- ASP.NET
+- ASP.NET MVC
+- Subversion
+
+## Blog Theme - blog.headtail.jp
+- Spanking API
+- Ajimi CMS / Blog
+- NUI / VR
+- Icon Font
+- Codingのつまづきどころ
+
+## 事業内容
+- VR / NUI / Gaget
+- IconFont Portal
+- CMS / Framework Website
+- Desital Marketing
+
+## 副事業
+- Banner
+- Website / LP
